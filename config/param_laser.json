@@ -1,5 +1,5 @@
 {
     "central_wavelength": "1550e-9",
     "pulse_duration": "0.5e-9",
-    "number_points": "8"
+    "number_points": "64"
 }
